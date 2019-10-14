@@ -1,6 +1,6 @@
 <?php
 
-class Test extends \PHPUnit\Framework\TestCase {
+class Test extends \PHPUnit\Framework\TestCase { // test comment
     /**
      * @group rotation
      * @group pawn
